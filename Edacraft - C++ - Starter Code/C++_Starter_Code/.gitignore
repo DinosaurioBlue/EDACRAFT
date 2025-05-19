@@ -1,1 +1,20 @@
 .idea/
+# JetBrains
+.idea/
+
+# Minecraft server files
+eula.txt
+logs/
+ops.json
+banned-*
+whitelist.json
+usercache.json
+server.properties
+server.jar
+libraries/
+versions/
+world/
+
+# JavaScript
+node_modules/
+package-lock.json
